@@ -7,6 +7,5 @@
 int main () {
     printf("Hello world!\n");
     printf("ALL OF US"); 
-     printf("ALL OF US"); 
 };
 
